@@ -708,7 +708,7 @@ GameObject:
   - component: {fileID: 1917286668}
   - component: {fileID: 1917286667}
   m_Layer: 5
-  m_Name: AIwizardTriumphsText
+  m_Name: GameOverText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

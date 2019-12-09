@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 1817003963}
   - component: {fileID: 1817003962}
   m_Layer: 5
-  m_Name: OpeningStatementText
+  m_Name: TitleText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
